@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./numeros.component.css']
 })
 export class NumerosComponent {
+  ventas: number = 21234343.5674;
+  porcentaje: number = 0.48;
 
+
+
+  
 }
